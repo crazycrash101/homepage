@@ -1,0 +1,29 @@
+.logo {
+    display:block;
+    margin:auto;
+    width:20vw;
+    height:auto;
+}
+.searchBar {
+    display:block;
+    margin:auto;
+    width:40vw;
+    height:40px;
+    border-radius: 20px;
+}
+.buttons {
+    width:40vw;
+    margin:auto;
+    margin-top: 15px;
+}
+
+#secondButton {
+    float:right;
+    margin-right: 150px;
+    height:35px;
+}
+
+#searchButton {
+    margin-left: 150px;
+    height: 35px;
+}
